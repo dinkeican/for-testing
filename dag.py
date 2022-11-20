@@ -43,3 +43,4 @@ while True:
         break
     else:
         print("输入错误程序退出")
+kaukua
